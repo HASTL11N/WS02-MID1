@@ -25,6 +25,12 @@ border: 24solid: #cc0000;
 	font-size: 20px;
 	color: #B1B0B1;
 }
+div. Almbum{
+	Hight: 500px;
+	Width: 500px;
+	Border-Radius: 20px;
+}
+
 img.big-image{
 	width: 600px;
 	height: 600px;
